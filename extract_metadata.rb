@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 require 'pdf-reader'
-require 'yomu'
+# require 'yomu'
 require 'date'
   author = 'MarcoVigano'
   yml_path = Dir.pwd + '/pdf/' + author + '_metadata.yml'
