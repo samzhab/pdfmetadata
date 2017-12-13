@@ -14,5 +14,5 @@ usage with rvm:
 `$ gem install pdf-reader`
 * make extractor executable  
 `$ chmod +x extract_metadata.rb`
-* run extractor
+* run extractor with 
 `$ ./extract_metadata.rb`
