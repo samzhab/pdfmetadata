@@ -10,9 +10,12 @@ extracts:
 usage with rvm:
 * place pdfs inside a Folder named <Author> inside working directory
 * create a gemset
+`$ rvm gemset create <gemset>`
+* use created gemset
+`$ rvm <ruby version>@<gemset>`
 * install pdf-reader gem  
 `$ gem install pdf-reader`
 * make extractor executable  
 `$ chmod +x extract_metadata.rb`
-* run extractor with 
+* run extractor 
 `$ ./extract_metadata.rb`
