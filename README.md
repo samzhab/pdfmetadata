@@ -11,8 +11,8 @@ usage with rvm:
 * place pdfs inside a Folder named <Author> inside working directory
 * create a gemset
 * install pdf-reader gem  
-$ gem install pdf-reader
+"$ gem install pdf-reader"
 * make extractor executable  
-$ chmod +x extract_metadata.rb
+"$ chmod +x extract_metadata.rb"
 * run extractor
-$ ./extract_metadata.rb
+"$ ./extract_metadata.rb"
