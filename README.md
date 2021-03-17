@@ -1,4 +1,5 @@
-==pdf metadata extrator==
+## PDF metadata extractor
+![temporary logo](https://bt-strike.s3-us-west-2.amazonaws.com/images/ruby.gif "bt-strike temporary logo")
 
 extracts:
 * pdf version
@@ -17,5 +18,5 @@ usage with rvm:
 `$ gem install pdf-reader`
 * make extractor executable  
 `$ chmod +x extract_metadata.rb`
-* run extractor 
+* run extractor
 `$ ./extract_metadata.rb`
